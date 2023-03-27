@@ -20,6 +20,8 @@ class FillState(models.Model):
         return f"{self.property} {self.end_time} {self.state}"
 
 
+
+
 # The earliest/starting end_time in FillState
 # We assume there is at least one realm
 def installation_epoch() -> datetime.datetime:

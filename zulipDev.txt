@@ -1,0 +1,16 @@
+Zulip setup;
+
+
+Production;
+https://zulip.readthedocs.io/en/stable/production/install.html
+
+Development setup;
+https://github.com/zulip/zulip/blob/main/docs/development/setup-advanced.md#installing-directly-on-ubuntu-debian-centos-or-fedora
+
+Sudo Rights for vboxuser;
+https://askubuntu.com/questions/1440032/virtualbox-ubuntu-22-04-how-to-add-sudo-rights
+
+Debian:
+vboxName; zulip-debian
+username; vboxuser
+password; changeme
